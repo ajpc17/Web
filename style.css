@@ -126,4 +126,9 @@ span {
         height: 120px;
         justify-content: space-evenly;
     }
+    .Titulo{
+        font-size: 42px;
+        margin-top: 50px;
+    
+    }
     }
