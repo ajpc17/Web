@@ -6,7 +6,13 @@
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
 }
-
+.Titulo{
+color: aliceblue;
+width: 660px;
+height: 200px;
+position: relative;
+font-size: 42px;
+}
 body {
     min-height: 100vh;
     background-image: linear-gradient(to right, #0025fa 0%, #4c21e7 0%, #70a6f8 21%, #000000 52%, #000000 78%, #0e0e0e 100%);
